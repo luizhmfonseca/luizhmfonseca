@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python, NodeJS, HTML, MySQL, CSS,
 - 💞️ I’m looking to collaborate in all project.
-- 📫 How to reach me: +55 11 91013-9491
+- 📫 How to reach me: luiz.hmfonseca@gmail.com
 
 <!---
 luizhmfonseca/luizhmfonseca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
