@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luizhmfonseca
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, NodeJS, HTML, MySQL, CSS,
+- 🌱 I’m currently learning Python, NodeJS, HTML, CSS, MySQL.
 - 💞️ I’m looking to collaborate in all project.
 - 📫 How to reach me: luiz.hmfonseca@gmail.com
 - @ Progamador Python - Estágio ou Voluntário - Remoto
