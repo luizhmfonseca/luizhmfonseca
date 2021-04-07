@@ -1,4 +1,4 @@
-- 👋 Welcome to profile.
+- 👋 Welcome to my profile.
 - 👀 20 years of IT infrastructure experience. I’m interested in Coding, Data Engineer, Big Data, IOT and AI.
 - 🌱 I’m currently learning Python, Flutter, HTML, CSS, MySQL, WordPress
 - 💞️ I’m looking to collaborate in all project.
